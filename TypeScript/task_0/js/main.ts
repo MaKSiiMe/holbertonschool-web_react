@@ -1,3 +1,5 @@
+// 0. Creating an interface for a student
+
 interface Student {
   firstName: string;
   lastName: string;
